@@ -1,0 +1,37 @@
+<!DOCTYPE html> 
+<html  lang="en">
+ <head>
+    <h1>My Resume
+</h1>
+<h2>Name:Giorgi Aphakidze</h2>
+</head>
+
+<body>
+    <h2>Summary</h2>
+    Im a single-minded person that wants to be successful. I've got criticial thinking
+     skills and analytical logic. What's more important I've got passion for being better. 
+<hr>
+<h2>Education</h2>
+<ul>
+    <li>Ive finished school euro 2000 (2023)</li>
+    <li>Currently studying in Batumi state maritime academy (bachelor Degree)</li>
+</ul>
+<hr>
+<h2>Interests</h2>
+<ul>
+    <li>Robotics
+    </li>
+    <li>Artifiical Inteligence</li>
+    <li>Video Games</li>
+    <li>guitar</li>
+    <li>Traveling
+
+    </li>
+</ul>
+<hr>
+<h2>Work Experience</h2>
+Customer service of amazon.
+Company:MAJOREL. 
+<a href="https://majorel.career.softgarden.de">Majorel Site link</a> 
+
+</body> 
